@@ -29,6 +29,13 @@
 ### 4) Application
 #### it is a tool and software to perform tasks. user interact with the system through various application such as office and games etc.
 
+## Features of linux
+#### 1) Open source
+#### 2) Multiuser
+#### 3) Multi Tasking
+#### 4) Security
+#### 5) Portability
+
 # 19 directories in linux 
 
 # 📁 Linux Directory Structure (19 Important Directories)
