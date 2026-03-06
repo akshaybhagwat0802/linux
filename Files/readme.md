@@ -117,3 +117,17 @@ chmod ugo = rwx filename
 ### formula for umask 
 umask = max permission - default permission 
   
+## ACL (Access control list)
+### Acl is used to set specific permisiion to user for particular file or directory .
+### to set the permission
+```bash
+setfacl -m u:username:rwx filename
+```
+### to view permission 
+```bash
+getfacl filename
+```
+### to remove the permission 
+```bash
+setfacl -x u:username filename
+```
